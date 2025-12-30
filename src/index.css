@@ -1,0 +1,12 @@
+:root{
+    --pink-color: rgba(255, 124, 164, 1);
+}
+.bg{
+    background-color:var(--pink-color);
+}
+.borderbg{
+    border: 4px solid var(--pink-color);
+}
+.titlecolor{
+color: var(--pink-color);
+}
